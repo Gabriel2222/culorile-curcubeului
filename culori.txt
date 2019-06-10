@@ -3,3 +3,4 @@ rosu
 galben
 oranj
 verde
+albastru
