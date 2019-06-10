@@ -1,0 +1,5 @@
+culorile curcubeului sunt:
+rosu 
+galben
+oranj
+verde
