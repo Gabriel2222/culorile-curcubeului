@@ -9,3 +9,7 @@ Experimental colors are:
 gray
 brown
 pink
+
+My animls are:
+lion
+monkey
