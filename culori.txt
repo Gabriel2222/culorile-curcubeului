@@ -4,3 +4,8 @@ galben
 oranj
 verde
 albastru
+
+Experimental colors are: 
+gray
+brown
+pink
