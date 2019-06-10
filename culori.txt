@@ -4,6 +4,7 @@ galben
 oranj
 verde
 albastru
+indigo
 
 Experimental colors are: 
 gray
