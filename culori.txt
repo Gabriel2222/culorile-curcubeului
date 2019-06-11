@@ -16,5 +16,5 @@ lion
 monkey
 
 Some plants:
-ginseng
-tomatoes
+ginseng 50kg
+tomatoes 100kg
