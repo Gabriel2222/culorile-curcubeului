@@ -14,3 +14,7 @@ pink
 My animls are:
 lion
 monkey
+
+Some plants:
+ginseng 50kg
+tomatoes 100kg
